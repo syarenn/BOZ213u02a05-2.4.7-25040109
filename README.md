@@ -31,7 +31,7 @@ Program:
 - Sürüm kontrol ve paylaşım platformu: GitHub
 
 ## 5. Nereden Yardım Alınabilir?
-Python hakkında ayrıntılı bilgi edinmek için resmî Python belgeleri incelenebilir.
+Python hakkında ayrıntılı bilgi edinmek için resmi Python belgeleri incelenebilir.
 
 https://docs.python.org/3/
 
