@@ -1,4 +1,4 @@
-# 🍎 Keloğlan'ın Elma Diyarı – Python Değişkenler
+#  Keloğlan'ın Elma Diyarı – Python Değişkenler
 
 ## Proje Hakkında
 Bu proje, Python programlama dilinde değişkenlerin oluşturulmasını, değişkenlere değer atanmasını ve temel aritmetik işlemlerin gerçekleştirilmesini öğrenmek amacıyla hazırlanmıştır.
